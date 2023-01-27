@@ -1,0 +1,44 @@
+
+.inline {
+    display: inline-block;
+    margin: 20px;
+    
+}
+
+.sample {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid white;
+}
+
+.sample:hover {
+    border: 1px solid black;
+}
+
+.main {
+    width: 700px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.c1 {
+    background-color: rgb(220,180,170);
+}
+
+.c2 {
+    background-color: rgb(220,99,78);;
+}
+
+.c3 {
+    background-color: rgb(135,168,161);;
+}
+
+.c4 {
+    background-color: rgb(220,180,170);;
+}
+
+.c5 {
+    background-color: rgb(107,148,109);;
+}
